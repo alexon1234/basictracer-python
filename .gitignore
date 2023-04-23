@@ -76,3 +76,4 @@ perf.svg
 # vim
 *.swp
 .idea/
+.e
